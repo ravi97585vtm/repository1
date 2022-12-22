@@ -1,2 +1,2 @@
 this is my test file.
-
+Stage branch created newly and this line is directly added from remote repository. 
